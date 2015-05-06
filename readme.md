@@ -1,2 +1,3 @@
-## depends-cocos2d-x
-cocos2d-x dependencies used to build my cocos2d-x games which include this repository as a submodule
+## cocos2d-x
+static fork of cocos2d-x 3.6 branch - includes all dependencies
+
