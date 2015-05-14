@@ -387,6 +387,9 @@ bool GLViewImpl::initWithRect(const std::string& viewName, Rect rect, float fram
 
     initGlew();
 
+    // Disable vsync
+    glfwSwapInterval(false);
+
     // Enable point size by default.
     glEnable(GL_VERTEX_PROGRAM_POINT_SIZE);
 
