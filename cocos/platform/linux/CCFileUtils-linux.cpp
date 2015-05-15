@@ -37,7 +37,7 @@ THE SOFTWARE.
 #include <errno.h>
 
 #ifndef CC_RESOURCE_FOLDER_LINUX
-#define CC_RESOURCE_FOLDER_LINUX ("/Resources/")
+#define CC_RESOURCE_FOLDER_LINUX ("/res/")
 #endif
 
 using namespace std;
